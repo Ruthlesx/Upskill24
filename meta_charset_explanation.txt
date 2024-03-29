@@ -1,0 +1,32 @@
+Meta_charset utf 8  (<meta charset="UTF-8">)
+
+<meta charset="UTF-8"> is an HTML tag that is used to indicate the web page's character encoding.
+UTF-8 is the most common character encoding method used on the internet today,  and is the default character set for HTML5.  
+The tag's function is used to see the corect content which let the browser know what character encoding was used in the HTML document.
+As a result, the web page can display text in multiple languages and special characters correctly.
+Without this declaration, the text would not be properly encoded leading to rendering issues.
+
+The UTF-8 is an encoding character set that contains almost all the characters that are used in writing systems worldwide.
+Text, symbols, and special characters can be correctly decoded and displayed with the help of browser regardless of the languages.
+This guarantees that the material can be read and understood by users worldwide and it is shown consistenly across various devices and platforms
+
+Functions of the meta charset utf-8:
+
+1. Character encoding: 
+        UTF-8 is a character encoding standard that can represent virtually every character in the Unicode character set.
+        By specifying 'UTF-8' as the character encoding, it ensures that the HTML document can properly display characters from various languages and symbol sets.
+        This include characters from languages like English,Chinese, Arabic and many other languages.
+
+2. Proper Rendering: 
+         Different browsers and devices may interpret character encodings differently if not explictly specified.
+         By including the meta charset utf-8 tag in the head section of your HTML document , you're telling the browser to interpret the text using the UTF-8 encoding standard.
+         This ensures consistent and proper rendering of text across different browsers and devices, regardless of the user's language or location.
+
+
+3. Universal Support: 
+          UTF-8 is widely supported by modern browsers and is considered the standard encoding for web developments.
+          By using it, you maximize compatibility with a broad range of devices and platforms, including desktop computers, smartphones, tablets and more.
+
+
+
+
